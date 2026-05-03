@@ -1,4 +1,13 @@
-# Forex Trading Dashboard 📊
+# Forex Trading Dashboard
+
+## 📊 Dashboard File
+
+The Power BI dashboard file (~150MB) is not included due to size limits.
+
+You can download it here:  
+🔗 [Download Dashboard](https://drive.google.com/file/d/1p4q0fZvgGFg8zzae--Ge35Tq1JngpqEK/view?usp=sharing)
+
+---
 
 An end-to-end foreign exchange market analysis project — raw Kaggle data processed in Python and visualized through an interactive Power BI dashboard covering 340 currency pairs from 1996 to 2021.
 
