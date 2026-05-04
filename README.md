@@ -79,7 +79,7 @@ forex-trading-dashboard/
 ```
 Kaggle (forex_data.csv)
         ↓
-Python / Jupyter Notebook
+Python / VS Code
   - Null handling & deduplication
   - Date parsing & formatting
   - Volatility & return calculations
